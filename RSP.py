@@ -31,3 +31,5 @@ else:
         print("당신이 이겼습니다.")
     else:
         print("비겼습니다.")
+
+print ("i love you")
