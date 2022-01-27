@@ -1,5 +1,8 @@
 import random
 
+# 재미있는 up & down game~
+
+
 answer = random.randrange(1, 101)
 print(answer)
 
