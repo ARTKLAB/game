@@ -2,7 +2,7 @@ import random
 
 answer = random.randrange(1, 101)
 print(answer)
-
+# 코드 수정 중
 count = 0
 
 while(True):
