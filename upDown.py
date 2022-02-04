@@ -1,5 +1,7 @@
 import random
 
+#소스코드수정중
+
 answer = random.randrange(1, 101)
 print(answer)
 
