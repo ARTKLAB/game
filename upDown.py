@@ -1,5 +1,7 @@
 import random
 
+# 수정하고 있습니다.
+
 answer = random.randrange(1, 101)
 print(answer)
 
