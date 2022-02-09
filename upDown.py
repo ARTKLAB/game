@@ -1,5 +1,6 @@
 import random
 
+#주석만 바꿔보기 
 #소스 코드 수정 중
 
 answer = random.randrange(1, 101)
