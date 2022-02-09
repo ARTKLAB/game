@@ -18,5 +18,5 @@ while(True):
     elif guess == answer:
         break
 
-print("축하합니다! 시도 횟수는 {}번 입니다.".format(count)
+print("축하합니다! 시도 횟수는 {}번 입니다.".format(count))
 print("굿이네요")
