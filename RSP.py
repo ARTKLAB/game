@@ -13,23 +13,23 @@ else:
 
 if num1 == 0:
     if num2 == 1:
-        print("컴퓨터가 이겼습니다")
+        print("컴퓨터가 이겼습니다!")
     elif num2 == 2:
-        print("당신이 이겼습니다.")
+        print("당신이 이겼습니다!")
     else:
         print("비겼습니다.")
 elif num1 == 1:
     if num2 == 0:
-        print("당신이 이겼습니다.")
+        print("당신이 이겼습니다!")
     elif num2 == 2:
-        print("컴퓨터가 이겼습니다.")
+        print("컴퓨터가 이겼습니다!")
     else:
         print("비겼습니다.")
 else:
     if num2 == 0:
-        print("컴퓨터가 이겼습니다")
+        print("컴퓨터가 이겼습니다!")
     elif num2 == 1:
-        print("당신이 이겼습니다.")
+        print("당신이 이겼습니다!")
     else:
         print("비겼습니다.")
 
