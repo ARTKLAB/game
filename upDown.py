@@ -8,7 +8,7 @@ print(answer)
 count = 0
 
 while(True):
-    guess = int(input("정답을 추측해보세요 : "))
+    guess = int(input("정답을 생각해보세요 : "))
     count += 1
 
     if guess > answer:
