@@ -1,6 +1,6 @@
 import random
 
-#소스 코드 수정하기
+#소스 코드 수정하기했어요
 
 answer = random.randrange(1, 101)
 print(answer)
