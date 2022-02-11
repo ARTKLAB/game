@@ -34,3 +34,4 @@ else:
         print("비겼습니다.")
 
 #주석
+print("It is my game")
