@@ -3,3 +3,5 @@
 안녕하세요
 이준영입니다
 반갑습니다
+
+`function add(x, y) {return x + y}`
