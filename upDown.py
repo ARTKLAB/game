@@ -19,3 +19,4 @@ while(True):
         break
 
 print("축하합니다! 시도 횟수는 {}번 입니다.".format(count))
+print("good work")
